@@ -4,3 +4,5 @@ This directory lists every level's solutions.
 
 #level
 Level 0 - level0/readme.md
+
+* [Bandit Level 0](level00/README.md)
