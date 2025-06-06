@@ -12,4 +12,4 @@
 3.  You will see a file named `readme`.
 4.  Use `cat readme` to print the contents of the file to the screen.
 
-**Password for Level 1:** `[The actual password you found here]`
+**Password for Level 1:** ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
