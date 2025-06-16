@@ -1,0 +1,4 @@
+## File Naming Quirks:
+
+- When a filename starts with a dash (`-`), it can be interpreted as a command-line option.
+  To correctly reference such a file, use `./-filename` (e.g., `cat ./-file_with_dash`).

@@ -6,4 +6,5 @@ This directory lists every level's solutions.
 * [Bandit Level 0](level0/readme.md)
 * [Bandit level 1](level1/readme.md)
 * [Bandit level 2](level2/readme.md)
-* [Bandit level 3](leevl3.readme.md)
+* [Bandit level 3](level3/readme.md)
+* [Bandit level 4](level4/readme.md)
