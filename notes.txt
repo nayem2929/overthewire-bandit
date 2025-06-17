@@ -8,3 +8,8 @@
 - 'find .' recursively scans through all the folders and sub-folders in a directory.
 - 'find' can be used with '-type f' to look for normal files and 'size -***c' to look for a size.
 - 'find' can also be used with 'ls -l' to list permissions and other details.
+- '-user USERNAME' and 'group GROUPNAME' options can be used to find by owners.
+
+## 2>/dev/null: 
+
+2 controls the stderr stream, '>' redirects them into /dev/null which is a bit discard bin. Useful for ignoring error messages
