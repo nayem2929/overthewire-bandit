@@ -4,7 +4,7 @@
 
 **Commands Used:**
 * `ls`: To list directories and files.
-* `decode`: To decode base64 encoded data.
+* `base64`: To decode base64 encoded data.
 
 **Steps:**
 1.  SSH into `bandit.labs.overthewire.org` as user `bandit10` with password from level9
@@ -13,5 +13,5 @@
 4.  Use `base64 -d data.txt`.
 5.  The password will show up in the 1st line.
 
-**Password for Level 10:** dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
+**Password for Level 11:** dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 
