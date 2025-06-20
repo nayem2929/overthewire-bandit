@@ -12,4 +12,12 @@
 
 ## 2>/dev/null: 
 
-2 controls the stderr stream, '>' redirects them into /dev/null which is a bit discard bin. Useful for ignoring error messages
+2 controls the stderr stream, '>' redirects them into /dev/null which is a bit discard bin. Useful for ignoring error 
+messages
+
+## Unzipping zip files:
+
+While unzipping files compressed using different compression systems, identify the file type and use appropriate 
+unzippers. Remember that zcat and bzcat's default output is standard output aka the terminal, whereas tar's default is 
+the destination file.
+
