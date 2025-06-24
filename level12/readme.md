@@ -33,5 +33,5 @@
 17. Use `tar -xvf uncomp4` to unzip it. This will create a **data8.bin file**, which is a gzip compressed data.
 18. Finally, use `zcat data8.bin` to obtain the password.
 
-**Password for Level 12:** 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+**Password for Level 13:** FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
 
