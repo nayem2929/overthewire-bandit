@@ -19,3 +19,5 @@ This directory lists every level's solutions.
 * [Bandit level 13](level13/readme.md)
 * [Bandit level 14](level14/readme.md)
 * [Bandit level 15](level15/readme.md)
+* [Bandit level 16](level16/readme.md)
+
