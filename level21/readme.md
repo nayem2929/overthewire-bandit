@@ -9,7 +9,7 @@ in /etc/cron.d/ for the configuration and see what command is being executed.
 
 **Steps:**
 1.  Use `ssh bandit21@bandit.labs.overthewire.org -p 2220` to login.
-2.  Use `cd /etc/` to change into the directory where the cronjob is located.
+2.  Use `cd /etc/cron.d/` to change into the directory where the cronjob is located.
 3.  Use `cat cronjob_bandit22` to see the output as such:
   @reboot bandit22 /usr/bin/cronjob_bandit22.sh &> /dev/null
   * * * * * bandit22 /usr/bin/cronjob_bandit22.sh &> /dev/null
