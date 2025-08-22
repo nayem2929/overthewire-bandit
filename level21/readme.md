@@ -24,4 +24,4 @@ in /etc/cron.d/ for the configuration and see what command is being executed.
   interpreter. The second line is changing permissions to a temp file, where the password is later written.
 6.  Reading this file using `cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv` gives the password to the next round.
 
-**Password for Level 21:** EeoULMCra2q0dSkYj561DX7s1CpBuOBt
+**Password for Level 22:** tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q
